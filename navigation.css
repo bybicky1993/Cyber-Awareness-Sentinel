@@ -1,3 +1,0 @@
-.module-pager{display:flex;justify-content:space-between;gap:12px;margin-top:28px;padding-top:20px;border-top:1px solid var(--line)}
-.module-pager a{margin:0}
-@media(max-width:700px){.module-pager{display:flex;position:static;padding:20px 0 0;background:transparent;flex-direction:row}.module-pager a{font-size:.9rem}}
