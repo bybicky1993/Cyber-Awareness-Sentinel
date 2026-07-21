@@ -32,7 +32,7 @@
       total,
       percentage: Math.round((completed / total) * 100),
       feedback: data.feedback || '',
-      completion_time: new Date().toISOString(),
+      completion_time: 0 ,
       created_at: new Date().toISOString()
     };
     try {
